@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm LIB</h1>
-<h3 align="center">A web3 developer from Japan</h3>
+<h3 align="center">A web3 developer on AW</h3>
 
-- 🌱 I’m currently learning **WASM**
-
-- 💬 Ask me about **web3 development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
