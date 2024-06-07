@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm LIB</h1>
-<h3 align="center">A web3 developer on AW</h3>
+<h3 align="center">I'm but one architect riding on the shoulders of giants.</h3>
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lib_defi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lib_defi" height="30" width="40" /></a>
 </p>
